@@ -1,0 +1,8 @@
+tensorflow==2.19.0
+keras==3.13.2
+numpy==2.0.2
+matplotlib==3.10.0
+scikit-learn==1.6.1
+Pillow==11.3.0
+tensorflowjs==4.22.0
+tflite-runtime
